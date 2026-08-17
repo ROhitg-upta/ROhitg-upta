@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="dark.svg" alt="Rohit Kumar Gupta Hero Banner" width="100%" />
+  <img src="./dark.svg" alt="Rohit Kumar Gupta Hero Banner" width="100%" />
 </p>
-
 ---
 
 ### 📈 Live Competitive Programming Stats
