@@ -223,36 +223,25 @@ I enjoy participating in hackathons because they push me to transform ideas into
 # 📊 GitHub Metrics
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=ROhitg-upta&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=synthwave&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8&icon_color=7C3AED&border_radius=12&cache_seconds=1800"
-alt="Rohit's GitHub Stats"
-width="98%"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ROhitg-upta&show_icons=true&theme=dark&hide_border=true"
+    alt="Rohit's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=ROhitg-upta&theme=transparent&hide_border=true&background=0F172A&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=12"
-alt="Rohit's GitHub Streak"
-width="98%"
-/>
-
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ROhitg-upta&theme=dark&hide_border=true"
+    alt="Rohit's GitHub Streak"
+  />
 </p>
 
 <p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROhitg-upta&layout=compact&langs_count=10&theme=synthwave&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8&border_radius=12&cache_seconds=1800"
-alt="Languages Used"
-width="98%"
-/>
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROhitg-upta&layout=compact&theme=dark&hide_border=true"
+    alt="Rohit's Top Languages"
+  />
 </p>
-
----
 
 # 📈 Contribution Activity
 
